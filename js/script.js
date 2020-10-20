@@ -4,7 +4,7 @@
 //todo Per i numeri che sono sia multipli di 3 che di 5 stampi "FizzBuzz".
 
 // Variabili
-var numeri = [];
+var numeri = 1;
 var somma = 0;
 
 // Ciclo
